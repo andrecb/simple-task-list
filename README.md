@@ -1,2 +1,2 @@
-# simples-task-list
+# simple-task-list
 A simple task list made with pure Javascript.
